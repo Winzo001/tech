@@ -1,2 +1,536 @@
 # tech
 tech company
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<div class="main-wrapper" style="width: 1440px; height: 6496px; position: relative; background: white; overflow: hidden">
+  <div class="footer-section" style="width: 1440px; height: 384px; left: 0px; top: 6112px; position: absolute; background: #000066">
+    <div class="footer-content" style="width: 1216px; height: 168px; left: 112px; top: 64px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 64px; display: inline-flex">
+      <div class="footer-brand" style="width: 320px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+        <img class="footer-logo" style="width: 170px; height: 37px" src="https://placehold.co/170x37" />
+        <div class="footer-desc" style="align-self: stretch; color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Top learning experiences that create more talent in the world.</div>
+      </div>
+      <div class="footer-links" style="flex: 1 1 0; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+        <div class="footer-links-product" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div class="footer-links-title" style="align-self: stretch; color: #98A2B3; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 20px; word-wrap: break-word">Product</div>
+          <div class="footer-links-list" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Tutorials</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Pricing</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-links-company" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div class="footer-links-title" style="align-self: stretch; color: #98A2B3; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 20px; word-wrap: break-word">Company</div>
+          <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+              <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">About us</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-links-social" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div class="footer-links-title" style="align-self: stretch; color: #98A2B3; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 20px; word-wrap: break-word">Social</div>
+          <div class="footer-links-list" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Twitter</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">LinkedIn</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">GitHub</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Dribbble</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-links-legal" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div class="footer-links-title" style="align-self: stretch; color: #98A2B3; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 20px; word-wrap: break-word">Legal</div>
+          <div class="footer-links-list" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Terms</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Privacy</div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-link-item" style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div class="footer-link-inner" style="justify-content: flex-start; align-items: flex-start; display: flex">
+                <div class="footer-link-inner2" style="justify-content: center; align-items: center; gap: 8px; display: flex">
+                  <div class="footer-link" style="color: #EAECF0; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Contact</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-socials" style="left: 612px; top: 296px; position: absolute; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+      <div class="footer-social-icon" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div class="footer-social-icon-inner" style="width: 24px; height: 19.50px; left: 0px; top: 2.25px; position: absolute; background: #98A2B3"></div>
+      </div>
+      <div class="footer-social-icon" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div class="footer-social-icon-inner" style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: #98A2B3"></div>
+      </div>
+      <div class="footer-social-icon" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div class="footer-social-icon-inner" style="width: 24px; height: 23.85px; left: 0px; top: 0px; position: absolute; background: #98A2B3"></div>
+      </div>
+      <div class="footer-social-icon" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div class="footer-social-icon-inner" style="width: 24px; height: 23.45px; left: 0px; top: 0px; position: absolute; background: #98A2B3"></div>
+      </div>
+      <div class="footer-social-icon" style="width: 24px; height: 24px; position: relative">
+        <div class="footer-social-icon-inner" style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: #98A2B3"></div>
+      </div>
+    </div>
+  </div>
+  <div class="whatsapp-section" style="width: 1439px; height: 225px; left: 0px; top: 5887px; position: absolute">
+    <div class="whatsapp-bg" style="width: 1436px; height: 207px; left: 0px; top: 0px; position: absolute; background: #F5F5F5"></div>
+    <div class="whatsapp-title" style="left: 653px; top: 30px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Not ready yet?</div>
+    <div class="whatsapp-desc" style="left: 390px; top: 73px; position: absolute; text-align: center; color: #000066; font-size: 32px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Join our Whatsapp group for tips and updates</div>
+    <div class="whatsapp-btn" style="width: 202px; height: 46px; padding-left: 30px; padding-right: 30px; padding-top: 4px; padding-bottom: 4px; left: 617px; top: 131px; position: absolute; background: #000066; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="whatsapp-btn-text" style="color: white; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 20px; word-wrap: break-word">Join now</div>
+    </div>
+  </div>
+  <div class="testimonial-section" style="width: 1197px; height: 201px; left: 120px; top: 5616px; position: absolute">
+    <div class="testimonial-card" style="width: 379px; height: 201px; left: 0px; top: 0px; position: absolute">
+      <div class="testimonial-card-content" style="left: -0.50px; top: 26px; position: absolute; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div class="testimonial-card-bg" style="width: 330px; height: 175px; background: white; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)"></div>
+        <img class="testimonial-card-img" style="width: 80.69px; height: 80.69px; border-radius: 9999px" src="https://placehold.co/81x81" />
+      </div>
+      <div class="testimonial-card-arrow" style="width: 67px; height: 67px; left: 78px; top: 67px; position: absolute; transform: rotate(-180deg); transform-origin: top left; overflow: hidden">
+        <div class="testimonial-card-arrow-inner" style="width: 39.08px; height: 27.92px; left: 13.96px; top: 19.54px; position: absolute; background: black"></div>
+      </div>
+      <div class="testimonial-card-text" style="width: 231px; left: 34px; top: 66px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div class="testimonial-card-quote" style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Before Trybanex I learnt Digital Marketing from on of their recent tutors and it has been a game changer for me</div>
+        <div class="testimonial-card-author" style="align-self: stretch; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Annabel Cosmas</div>
+      </div>
+    </div>
+    <!-- Repeat .testimonial-card for other testimonials -->
+    <!-- ...existing code... -->
+  </div>
+  <div class="career-section" style="width: 1437px; height: 610px; left: 2px; top: 4936px; position: absolute; background: #F5F5F5; overflow: hidden">
+    <div class="career-title" style="left: 500px; top: 50px; position: absolute; color: black; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Invest in your career</div>
+    <div class="career-features" style="width: 1237px; left: 100px; top: 156px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex; flex-wrap: wrap; align-content: flex-start">
+      <div class="career-feature-icon" style="width: 33.80px; height: 32.08px; background: black"></div>
+      <div class="career-feature-title" style="width: 166px; color: black; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Explore New Skills</div>
+      <div class="career-feature-desc" style="width: 388px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Gain access to join classes and gain knowledge on any tech skill. hdcvavcc sdaj  ajgacadcvaac</div>
+      <div class="career-feature-desc" style="width: 421px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Get certificates for every course you finish and boost your chance of getting hired after your training ends at no additional cost</div>
+      <div class="career-feature-title" style="text-align: center; color: black; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Register for a Class</div>
+      <div class="career-feature-icon" style="width: 27.23px; height: 35.49px; background: black"></div>
+      <div class="career-feature-outline" style="width: 6.67px; height: 4.75px; outline: 2.50px black solid; outline-offset: -1.25px"></div>
+      <div class="career-feature-desc" style="width: 388px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Take your skills to the next level by learning from experts in any field of your choice. </div>
+      <div class="career-feature-title" style="text-align: center; color: black; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Gain Access to Classes</div>
+      <div class="career-feature-outline" style="width: 33.80px; height: 32.08px; outline: 4px black solid; outline-offset: -2px"></div>
+      <div class="career-feature-title" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">Finish Learning Skill</div>
+      <div class="career-feature-desc" style="width: 388px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Gain access to join classes and gain knowledge on any tech skill.dbsr debadvdxv av adeb</div>
+      <div class="career-feature-icon" style="width: 33.80px; height: 32.08px; background: black"></div>
+      <div class="career-feature-desc" style="width: 421px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Get certificates for every course you finish and boost your chance of getting hired after your training ends at no additional cost</div>
+      <div class="career-feature-title" style="text-align: center; color: black; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Earn valuable credentials</div>
+      <div class="career-feature-icon" style="width: 27.23px; height: 35.49px; background: black"></div>
+      <div class="career-feature-outline" style="width: 6.67px; height: 4.75px; outline: 2.50px black solid; outline-offset: -1.25px"></div>
+      <div class="career-feature-desc" style="width: 388px; text-align: center; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Take your skills to the next level by learning from experts in any field of your choice. </div>
+      <div class="career-feature-title" style="text-align: center; color: black; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Get a Job</div>
+      <div class="career-feature-outline" style="width: 33.80px; height: 32.08px; outline: 4px black solid; outline-offset: -2px"></div>
+    </div>
+  </div>
+  <div class="tutors-section" style="width: 1437px; height: 568px; left: 0px; top: 4336px; position: absolute">
+    <div class="tutors-title" style="left: 120px; top: 0px; position: absolute; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 700; line-height: 40.13px; word-wrap: break-word">Tutors</div>
+      <div class="tutors-list-container" style="width: 1317px; height: 451px; left: 120px; top: 81px; position: absolute">
+        <div class="tutors-list" style="width: 3710px; padding: 20.06px; left: -21px; top: 0px; position: absolute; overflow: hidden; justify-content: flex-start; align-items: center; gap: 40.13px; display: inline-flex">
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <div class="tutor-card" style="width: 325.03px; height: 411.31px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25)">
+            <div class="tutor-card-bg" style="width: 325.03px; height: 411.31px; left: 0.46px; top: 0.19px; position: absolute; background: white; border-radius: 20.06px"></div>
+            <img class="tutor-card-img" style="width: 174px; height: 175px; left: 76px; top: 31px; position: absolute; border-radius: 9999px" src="https://placehold.co/174x175" />
+            <div class="tutor-card-name" style="left: 75px; top: 240.96px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 800; line-height: 40px; word-wrap: break-word">Obilor Wisdom</div>
+            <div class="tutor-card-role" style="left: 92px; top: 290.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 40px; word-wrap: break-word">Front-end Dev.</div>
+            <div class="tutor-card-exp" style="left: 73px; top: 340.96px; position: absolute; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">2 Years Experience</div>
+          </div>
+          <!-- Repeat .tutor-card for other tutors -->
+          <!-- ...existing code... -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="vision-section" style="width: 1200px; height: 483px; left: 120px; top: 3746px; position: absolute">
+    <div class="vision-title" style="width: 345px; height: 56px; left: 0px; top: 29px; position: absolute; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Our Vision</div>
+    <div class="vision-desc" style="width: 616px; left: 0px; top: 135px; position: absolute; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">Learn at your own pace hfbvsuovsv sfvubuosf vsfuvbuosdf vsfubvusf vsfubsffuov sfuvbsfov sfuovbosd subvsfdv suobsf sfubvssd sufbv sfvubsfvsd vsduosbvsjfv sdviosvsd vsdsv svrousfbv sfujvbs fvsusrfv sufv sfuvsf vsu vLearn at<br/><br/>sfuovbosd subvsfdv suobsf sfubvssd sufbv sfvubsfvsd vsduosbvsjfv sdviosvsd vsdsv svrousfbv sfujvbs fvsusrfv sufv sfuvsf vsuhady iasiusis siyvsai.</div>
+    <img class="vision-img" style="width: 440px; height: 483px; left: 760px; top: 0px; position: absolute; border-radius: 20px" src="https://placehold.co/440x483" />
+  </div>
+  <div class="mission-section" style="width: 1171px; height: 483px; left: 120px; top: 3163px; position: absolute">
+    <div class="mission-title" style="width: 345px; height: 56px; left: 555px; top: 29px; position: absolute; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Our Mission</div>
+    <div class="mission-desc" style="width: 616px; left: 555px; top: 135px; position: absolute; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">Learn at your own pace hfbvsuovsv sfvubuosf vsfuvbuosdf vsfubvusf vsfubsffuov sfuvbsfov sfuovbosd subvsfdv suobsf sfubvssd sufbv sfvubsfvsd vsduosbvsjfv sdviosvsd vsdsv svrousfbv sfujvbs fvsusrfv sufv sfuvsf vsu vLearn at<br/><br/>sfuovbosd subvsfdv suobsf sfubvssd sufbv sfvubsfvsd vsduosbvsjfv sdviosvsd vsdsv svrousfbv sfujvbs fvsusrfv sufv sfuvsf vsuhady iasiusis siyvsai.</div>
+    <img class="mission-img" style="width: 440px; height: 483px; left: 0px; top: 0px; position: absolute; border-radius: 20px" src="https://placehold.co/440x483" />
+  </div>
+  <div class="interactive-section" style="width: 1200px; height: 597px; left: 120px; top: 2435px; position: absolute">
+    <img class="interactive-main-img" style="width: 674px; height: 386px; left: 526px; top: 0px; position: absolute; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.50); border-radius: 20px" src="https://placehold.co/674x386" />
+    <img class="interactive-overlay-img" style="width: 250px; height: 145px; left: 562px; top: 30px; position: absolute; border-radius: 20px" src="https://placehold.co/250x145" />
+    <div class="interactive-red-dot" style="width: 97px; height: 93.14px; left: 815px; top: 343px; position: absolute; background: #EA2626; border-radius: 9999px"></div>
+    <div class="interactive-white-bar" style="width: 54.64px; height: 25.37px; left: 836.24px; top: 376.50px; position: absolute; background: white"></div>
+    <div class="interactive-title" style="width: 477px; left: 0px; top: 71px; position: absolute; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Engage in Interactive Live Online Classes</div>
+    <div class="interactive-desc" style="width: 448px; left: 0px; top: 205px; position: absolute; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">Join our live online classes to learn from industry experts in real-time. Experience a dynamic learning environment that adapts to your schedule and enhances your skills.</div>
+    <div class="interactive-class-types" style="width: 906px; left: 147px; top: 487px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
+      <div class="class-type-card" style="width: 276px; height: 77px; background: white; border-radius: 20px"></div>
+      <div class="class-type-title" style="color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Audio Classes</div>
+      <div class="class-type-icon" style="width: 40.56px; height: 40.56px; background: #B90000; border-radius: 10.58px"></div>
+      <div class="class-type-icon-wrap" style="width: 28.22px; height: 28.22px; position: relative; overflow: hidden">
+        <div class="class-type-icon-black" style="width: 28.22px; height: 28.22px; left: 0px; top: 0px; position: absolute; background: black"></div>
+        <div class="class-type-icon-red" style="width: 28.22px; height: 21.16px; left: 0px; top: 3.53px; position: absolute; background: #FF7878"></div>
+      </div>
+      <div class="class-type-card" style="width: 276px; height: 77px; background: white; border-radius: 20px"></div>
+      <div class="class-type-title" style="width: 127.06px; height: 28.99px; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Live Classes</div>
+      <div class="class-type-icon" style="width: 37.81px; height: 37.81px; background: #B000CB; border-radius: 10.75px"></div>
+      <div class="class-type-icon-wrap" style="width: 29.59px; height: 29.59px; position: relative; overflow: hidden">
+        <div class="class-type-icon-purple" style="width: 27.13px; height: 24.66px; left: 1.23px; top: 2.47px; position: absolute; background: #EE7CFF"></div>
+      </div>
+      <div class="class-type-card" style="width: 276px; height: 77px; background: white; border-radius: 20px"></div>
+      <div class="class-type-icon" style="width: 38.76px; height: 38.76px; background: #37CC05; border-radius: 9.53px"></div>
+      <div class="class-type-icon-wrap" style="width: 32.02px; height: 32.02px; position: relative; overflow: hidden">
+        <div class="class-type-icon-green" style="width: 26.68px; height: 18.68px; left: 2.67px; top: 6.67px; position: absolute; background: #BBFFA5"></div>
+      </div>
+      <div class="class-type-title" style="width: 170px; height: 26px; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Recorded Classes</div>
+    </div>
+  </div>
+  <div class="classes-section" style="width: 1440px; height: 741px; left: 0px; top: 1594px; position: absolute; background: #E7EFFF">
+    <div class="classes-content" style="width: 1291px; left: 75px; top: 32px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+      <div class="classes-title" style="align-self: stretch; height: 56px; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Classes Available<br/></div>
+      <div class="classes-list" data-property-1="Default" style="align-self: stretch; height: 581px; position: relative">
+        <div class="classes-cards-row" style="left: 45px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+          <div class="class-card" style="width: 384px; height: 494px; padding-top: 24px; padding-bottom: 32px; padding-left: 24px; padding-right: 24px; background: white; box-shadow: 7px 7px 7.6px -2px rgba(16, 24, 40, 0.25); border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+            <div class="class-card-img-wrap" style="align-self: stretch; height: 240px; position: relative; overflow: hidden; border-radius: 4px; background-image: url(https://placehold.co/336x240)">
+              <div class="class-card-duration" style="padding-left: 10px; padding-right: 10px; padding-top: 6px; padding-bottom: 6px; left: 193px; top: 11px; position: absolute; background: white; border-radius: 4px; backdrop-filter: blur(2px); justify-content: center; align-items: center; gap: 6px; display: inline-flex">
+                <div class="class-card-duration-icon" style="width: 16px; height: 16px; position: relative; overflow: hidden">
+                  <div class="class-card-duration-circle" style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; border: 1.5px #413C69 solid"></div>
+                  <div class="class-card-duration-check" style="width: 2.67px; height: 5.33px; left: 8px; top: 4.44px; position: absolute; outline: 1.5px #413C69 solid; outline-offset: -0.75px"></div>
+                </div>
+                <div class="class-card-duration-text" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">2 Months</div>
+              </div>
+            </div>
+            <div class="class-card-details-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-end; gap: 95px; display: inline-flex; flex-wrap: wrap; align-content: flex-end">
+              <div class="class-card-details" style="width: 336px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div class="class-card-details-inner" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+                  <div class="class-card-details-title-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+                    <div class="class-card-title" style="flex: 1 1 0; color: #101828; font-size: 24px; font-family: Roboto; font-weight: 600; line-height: 32px; word-wrap: break-word">Ui/Ux Design</div>
+                  </div>
+                  <div class="class-card-desc" style="align-self: stretch; color: #667085; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Use Figma to get a job in UI Design, User Interface, User Experience design.</div>
+                </div>
+              </div>
+              <div class="class-card-tutor-row" style="justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+                <img class="class-card-tutor-img" style="width: 40px; height: 40px; border-radius: 200px" src="https://placehold.co/40x40" />
+                <div class="class-card-tutor-info" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div class="class-card-tutor-name" style="color: #101828; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; word-wrap: break-word">Jane Cooper</div>
+                  <div class="class-card-tutor-enrolled" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">2001 Enrolled</div>
+                </div>
+              </div>
+              <div class="class-card-price" style="text-align: right; color: #000066; font-size: 26px; font-family: Roboto; font-weight: 700; word-wrap: break-word">20,000</div>
+              <div class="class-card-price-icon" style="width: 18px; height: 20.25px; background: #000066"></div>
+            </div>
+          </div>
+          <div class="class-card" style="width: 384px; height: 494px; padding-top: 24px; padding-bottom: 32px; padding-left: 24px; padding-right: 24px; background: white; box-shadow: 7px 7px 7.6px -2px rgba(16, 24, 40, 0.25); border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+            <div class="class-card-img-wrap" style="align-self: stretch; height: 240px; position: relative; overflow: hidden; border-radius: 4px; background-image: url(https://placehold.co/336x240)">
+              <div class="class-card-duration" style="padding-left: 10px; padding-right: 10px; padding-top: 6px; padding-bottom: 6px; left: 193px; top: 11px; position: absolute; background: white; border-radius: 4px; backdrop-filter: blur(2px); justify-content: center; align-items: center; gap: 6px; display: inline-flex">
+                <div class="class-card-duration-icon" style="width: 16px; height: 16px; position: relative; overflow: hidden">
+                  <div class="class-card-duration-circle" style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; border: 1.5px #413C69 solid"></div>
+                  <div class="class-card-duration-check" style="width: 2.67px; height: 5.33px; left: 8px; top: 4.44px; position: absolute; outline: 1.5px #413C69 solid; outline-offset: -0.75px"></div>
+                </div>
+                <div class="class-card-duration-text" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">2 Months</div>
+              </div>
+            </div>
+            <div class="class-card-details-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-end; gap: 95px; display: inline-flex; flex-wrap: wrap; align-content: flex-end">
+              <div class="class-card-details" style="width: 336px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div class="class-card-details-inner" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+                  <div class="class-card-details-title-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+                    <div class="class-card-title" style="flex: 1 1 0; color: #101828; font-size: 24px; font-family: Roboto; font-weight: 600; line-height: 32px; word-wrap: break-word">Ui/Ux Design</div>
+                  </div>
+                  <div class="class-card-desc" style="align-self: stretch; color: #667085; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Use Figma to get a job in UI Design, User Interface, User Experience design.</div>
+                </div>
+              </div>
+              <div class="class-card-tutor-row" style="justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+                <img class="class-card-tutor-img" style="width: 40px; height: 40px; border-radius: 200px" src="https://placehold.co/40x40" />
+                <div class="class-card-tutor-info" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div class="class-card-tutor-name" style="color: #101828; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; word-wrap: break-word">Jane Cooper</div>
+                  <div class="class-card-tutor-enrolled" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">2001 Enrolled</div>
+                </div>
+              </div>
+              <div class="class-card-price" style="text-align: right; color: #000066; font-size: 26px; font-family: Roboto; font-weight: 700; word-wrap: break-word">20,000</div>
+              <div class="class-card-price-icon" style="width: 18px; height: 20.25px; background: #000066"></div>
+            </div>
+          </div>
+          <div class="class-card" style="width: 384px; height: 494px; padding-top: 24px; padding-bottom: 32px; padding-left: 24px; padding-right: 24px; background: white; box-shadow: 7px 7px 7.6px -2px rgba(16, 24, 40, 0.25); border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+            <div class="class-card-img-wrap" style="align-self: stretch; height: 240px; position: relative; overflow: hidden; border-radius: 4px; background-image: url(https://placehold.co/336x240)">
+              <div class="class-card-duration" style="padding-left: 10px; padding-right: 10px; padding-top: 6px; padding-bottom: 6px; left: 193px; top: 11px; position: absolute; background: white; border-radius: 4px; backdrop-filter: blur(2px); justify-content: center; align-items: center; gap: 6px; display: inline-flex">
+                <div class="class-card-duration-icon" style="width: 16px; height: 16px; position: relative; overflow: hidden">
+                  <div class="class-card-duration-circle" style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; border: 1.5px #413C69 solid"></div>
+                  <div class="class-card-duration-check" style="width: 2.67px; height: 5.33px; left: 8px; top: 4.44px; position: absolute; outline: 1.5px #413C69 solid; outline-offset: -0.75px"></div>
+                </div>
+                <div class="class-card-duration-text" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 500; word-wrap: break-word">2 Months</div>
+              </div>
+            </div>
+            <div class="class-card-details-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-end; gap: 95px; display: inline-flex; flex-wrap: wrap; align-content: flex-end">
+              <div class="class-card-details" style="width: 336px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div class="class-card-details-inner" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+                  <div class="class-card-details-title-row" style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+                    <div class="class-card-title" style="flex: 1 1 0; color: #101828; font-size: 24px; font-family: Roboto; font-weight: 600; line-height: 32px; word-wrap: break-word">Ui/Ux Design</div>
+                  </div>
+                  <div class="class-card-desc" style="align-self: stretch; color: #667085; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Use Figma to get a job in UI Design, User Interface, User Experience design.</div>
+                </div>
+              </div>
+              <div class="class-card-tutor-row" style="justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+                <img class="class-card-tutor-img" style="width: 40px; height: 40px; border-radius: 200px" src="https://placehold.co/40x40" />
+                <div class="class-card-tutor-info" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div class="class-card-tutor-name" style="color: #101828; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; word-wrap: break-word">Jane Cooper</div>
+                  <div class="class-card-tutor-enrolled" style="color: #667085; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">2001 Enrolled</div>
+                </div>
+              </div>
+              <div class="class-card-price" style="text-align: right; color: #000066; font-size: 26px; font-family: Roboto; font-weight: 700; word-wrap: break-word">20,000</div>
+              <div class="class-card-price-icon" style="width: 18px; height: 20.25px; background: #000066"></div>
+            </div>
+          </div>
+          <!-- Repeat .class-card for other cards in the row -->
+        </div>
+        <div class="classes-arrow-left" data-property-1="Default" style="width: 67px; height: 67px; left: 67px; top: 307px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: #000066; box-shadow: 2.65px 2.65px 2.65px rgba(0, 0, 0, 0.25); overflow: hidden; border-radius: 66.34px">
+          <div class="classes-arrow-left-inner" style="width: 18.88px; height: 33.30px; left: 41.95px; top: 50.15px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: white"></div>
+        </div>
+        <div class="classes-arrow-right" data-property-1="Default" style="width: 67px; height: 67px; left: 1223px; top: 240px; position: absolute; background: #000066; box-shadow: 2.65px 2.65px 2.65px rgba(0, 0, 0, 0.25); overflow: hidden; border-radius: 66.34px">
+          <div class="classes-arrow-right-inner" style="width: 18.88px; height: 33.30px; left: 43.92px; top: 50.15px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: white"></div>
+        </div>
+        <div class="classes-pagination" style="left: 598px; top: 544px; position: absolute; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+          <div class="classes-pagination-bar" style="width: 48px; height: 12px; background: #000066; border-radius: 6px"></div>
+          <div class="classes-pagination-dot" style="width: 12px; height: 12px; background: #D9D9D9; border-radius: 9999px"></div>
+          <div class="classes-pagination-dot" style="width: 12px; height: 12px; background: #D9D9D9; border-radius: 9999px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="why-choose-section" style="width: 1201px; height: 594px; left: 120px; top: 900px; position: absolute">
+    <div class="why-choose-bg-blue" style="width: 483.33px; height: 483.33px; left: 4.60px; top: 54.96px; position: absolute; background: #75A1F9; border-radius: 9999px"></div>
+    <img class="why-choose-main-img" style="width: 340.25px; height: 523.46px; left: 41.24px; top: 0px; position: absolute" src="https://placehold.co/340x523" />
+    <div class="why-choose-bg-dark" style="width: 483.33px; height: 483.33px; left: -5px; top: 110.80px; position: absolute; background: #000066; border-radius: 9999px"></div>
+    <div class="why-choose-title" style="width: 345px; height: 56px; left: 579px; top: 60px; position: absolute; color: #000066; font-size: 40px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Why Choose Us</div>
+    <div class="why-choose-desc" style="width: 616px; left: 579px; top: 166px; position: absolute; color: #101010; font-size: 20px; font-family: Roboto; font-weight: 400; line-height: 40px; word-wrap: break-word">Learn at your own pace hfbvsuovsv sfvubuosf vsfuvbuosdf vsfubvusf vsfubsffuov sfuvbsfov sfuovbosd subvsfdv suobsf sfubvssd sufbv sfvubsfvsd vsduosbvsjfv sdviosvsd vsdsv svrousfbv sfujvbs fvsusrfv sufv sfuvsf vsuhady iasiusis siyvsai.</div>
+    <div class="why-choose-circle" style="width: 162px; height: 162px; left: 45px; top: 181px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 265px; height: 265px; left: -6px; top: 130px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 344px; height: 344px; left: -46px; top: 90px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 414px; height: 414px; left: -81px; top: 55px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 162px; height: 162px; left: 1050px; top: 352px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 265px; height: 265px; left: 999px; top: 301px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 344px; height: 344px; left: 959px; top: 261px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="why-choose-circle" style="width: 414px; height: 414px; left: 924px; top: 226px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+  </div>
+  <div class="header-section" style="width: 1440px; height: 688px; left: 0px; top: 112px; position: absolute; background: #E7EFFF; overflow: hidden">
+    <div class="header-circle" style="width: 162px; height: 162px; left: 1206px; top: 474px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 265px; height: 265px; left: 1155px; top: 423px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 344px; height: 344px; left: 1115px; top: 383px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 414px; height: 414px; left: 1080px; top: 348px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 162px; height: 162px; left: 159px; top: 183px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 265px; height: 265px; left: 108px; top: 132px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 344px; height: 344px; left: 68px; top: 92px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-circle" style="width: 414px; height: 414px; left: 33px; top: 57px; position: absolute; border-radius: 9999px; border: 1px rgba(0, 0, 102, 0.25) solid"></div>
+    <div class="header-logo-wrap" style="width: 75px; height: 75px; left: 1069px; top: 43px; position: absolute">
+      <div class="header-logo-part" style="width: 17.78px; height: 29.63px; left: 10px; top: 14.26px; position: absolute; outline: 5.92px #000066 solid; outline-offset: -2.96px"></div>
+      <div class="header-logo-part" style="width: 42.27px; height: 38.11px; left: 17.80px; top: 13.44px; position: absolute; outline: 5.92px #000066 solid; outline-offset: -2.96px"></div>
+      <div class="header-logo-part" style="width: 42.18px; height: 15.59px; left: 22.66px; top: 46px; position: absolute; outline: 5.92px #000066 solid; outline-offset: -2.96px"></div>
+    </div>
+    <img class="header-main-img" style="width: 503px; height: 659px; left: 761px; top: 35px; position: absolute" src="/images/daca7abf-bc7f-4bcf-d29f621ebd35 (1).png" />
+    <div class="header-stat header-stat-courses" style="padding: 18.36px; left: 1175px; top: 100px; position: absolute; background: #F5F5F4; box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15); border-radius: 18.36px; outline: 0.76px #000066 solid; outline-offset: -0.76px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 12.24px; display: inline-flex">
+      <div class="header-stat-icon" style="width: 80px; height: 80px; position: relative">
+        <div class="header-stat-icon-inner" style="width: 72px; height: 72px; left: 4px; top: 4px; position: absolute">
+          <div class="header-stat-icon-bg" style="width: 72px; height: 72px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; outline: 8px #EAECF0 solid; outline-offset: -4px"></div>
+          <div class="header-stat-icon-bg2" style="width: 72px; height: 72px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; outline: 8px #000066 solid; outline-offset: -4px"></div>
+        </div>
+      </div>
+      <div class="header-stat-value" style="text-align: center; color: #101828; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word">10+</div>
+      <div class="header-stat-label" style="opacity: 0.50; text-align: center; color: #101828; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word">Online Courses</div>
+    </div>
+    <div class="header-stat header-stat-videos" style="padding: 18.36px; left: 697px; top: 340px; position: absolute; background: #F5F5F4; box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15); border-radius: 18.36px; outline: 0.76px #000066 solid; outline-offset: -0.76px; justify-content: flex-end; align-items: center; gap: 24.48px; display: inline-flex">
+      <div class="header-stat-icon" style="width: 48.96px; height: 48.96px; background: #000066; border-radius: 12.24px"></div>
+      <div class="header-stat-icon-wrap" style="width: 36px; height: 36px; position: relative; overflow: hidden">
+        <div class="header-stat-icon-white1" style="width: 31.35px; height: 22.95px; left: 2.32px; top: 5.40px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white2" style="width: 34.88px; height: 5.47px; left: 0.53px; top: 25.12px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white3" style="width: 5.78px; height: 5.03px; left: 6.75px; top: 9.38px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white4" style="width: 6.90px; height: 6.15px; left: 6.15px; top: 8.77px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white5" style="width: 5.78px; height: 5.02px; left: 6.75px; top: 17.32px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white6" style="width: 6.90px; height: 6.15px; left: 6.15px; top: 16.80px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white7" style="width: 13.43px; height: 1.12px; left: 16.12px; top: 11.25px; position: absolute; background: white"></div>
+        <div class="header-stat-icon-white8" style="width: 13.43px; height: 1.12px; left: 16.12px; top: 19.27px; position: absolute; background: white"></div>
+      </div>
+      <div class="header-stat-info" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 6.12px; display: inline-flex">
+        <div class="header-stat-value" style="color: #101828; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word">50+</div>
+        <div class="header-stat-label" style="opacity: 0.50; color: #101828; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word">Video Courses</div>
+      </div>
+    </div>
+    <div class="header-stat header-stat-tutors" style="padding: 18.36px; left: 1144px; top: 407px; position: absolute; background: #F5F5F4; box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15); border-radius: 18.36px; outline: 0.76px #000066 solid; outline-offset: -0.76px; justify-content: flex-start; align-items: flex-start; gap: 12.24px; display: inline-flex">
+      <div class="header-stat-icon" style="width: 48.96px; height: 48.96px; background: #000066; border-radius: 12.24px"></div>
+      <div class="header-stat-icon-wrap" style="width: 30.60px; height: 30.60px; position: relative; overflow: hidden">
+        <div class="header-stat-icon-tutor1" style="width: 13.45px; height: 20.27px; left: 16.70px; top: 0.45px; position: absolute; background: #F5F5F4"></div>
+        <div class="header-stat-icon-tutor2" style="width: 7.40px; height: 17.66px; left: 19.76px; top: 12.49px; position: absolute; background: #F5F5F4"></div>
+        <div class="header-stat-icon-tutor3" style="width: 17.98px; height: 20.02px; left: 0.51px; top: 3.51px; position: absolute; background: #F5F5F4"></div>
+        <div class="header-stat-icon-tutor4" style="width: 10.96px; height: 0.96px; left: 4.08px; top: 12.43px; position: absolute; background: #F5F5F4"></div>
+        <div class="header-stat-icon-tutor5" style="width: 10.96px; height: 0.96px; left: 4.08px; top: 15.68px; position: absolute; background: #F5F5F4"></div>
+        <div class="header-stat-icon-tutor6" style="width: 10.96px; height: 0.96px; left: 4.08px; top: 19px; position: absolute; background: #F5F5F4"></div>
+      </div>
+      <div class="header-stat-info" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div class="header-stat-label" style="opacity: 0.50; text-align: center; color: #101828; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word">Tutors</div>
+        <div class="header-stat-value" style="text-align: center; color: #101828; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word">12+</div>
+      </div>
+    </div>
+    <div class="header-hero-content" style="left: 120px; top: 74px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 50px; display: inline-flex">
+      <div class="header-hero-main" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+        <div class="header-hero-title-wrap" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+          <div class="header-hero-title" style="width: 573px"><span style="color: #101828; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word">up your </span><span style="color: #000066; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word">skills<br/></span><span style="color: #101828; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word">to </span><span style="color: #000066; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word">advance</span><span style="color: #101828; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word"> your </span><span style="color: #000066; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word">career</span><span style="color: #101828; font-size: 64px; font-family: Roboto; font-weight: 700; text-transform: capitalize; line-height: 82px; word-wrap: break-word"> path</span></div>
+          <div class="header-hero-desc" style="width: 487px; color: #646464; font-size: 20px; font-family: Roboto; font-weight: 500; line-height: 36px; word-wrap: break-word">Learn UI-UX Design skills with weekend UX . The latest online learning system and material that help your knowledge growing.</div>
+        </div>
+        <div class="header-hero-buttons" style="justify-content: flex-start; align-items: flex-start; gap: 28px; display: inline-flex">
+          <div class="header-hero-btn header-hero-btn-primary" style="padding-left: 28px; padding-right: 28px; padding-top: 16px; padding-bottom: 16px; background: #000066; box-shadow: 0px 0px 0px 4px #F4EBFF; overflow: hidden; border-radius: 8px; outline: 1px #000066 solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div class="header-hero-btn-text" style="color: white; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">Get Started</div>
+          </div>
+          <div class="header-hero-btn header-hero-btn-secondary" style="padding-left: 28px; padding-right: 28px; padding-top: 16px; padding-bottom: 16px; background: #DDDDFF; box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05); overflow: hidden; border-radius: 8px; outline: 1px #EAFFF9 solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div class="header-hero-btn-text" style="color: #000066; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 28px; word-wrap: break-word">Get free trial</div>
+          </div>
+        </div>
+      </div>
+      <div class="header-hero-tags-row" style="justify-content: flex-start; align-items: flex-start; gap: 34px; display: inline-flex">
+        <div class="header-hero-tag" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div class="header-hero-tag-icon-wrap" style="width: 32px; height: 32px; position: relative; overflow: hidden">
+            <div class="header-hero-tag-icon" style="width: 26.03px; height: 28.37px; left: 4.59px; top: 0.50px; position: absolute; background: #F1BF5A"></div>
+            <div class="header-hero-tag-dot" style="width: 8.27px; height: 8.27px; left: 1.39px; top: 23.23px; position: absolute; background: #F1BF5A"></div>
+          </div>
+          <div class="header-hero-tag-text" style="color: rgba(29, 41, 57, 0.70); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 40px; word-wrap: break-word">Public Speaking</div>
+        </div>
+        <div class="header-hero-tag" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div class="header-hero-tag-icon-wrap" style="width: 32px; height: 32px; position: relative; overflow: hidden">
+            <div class="header-hero-tag-icon" style="width: 30.79px; height: 31px; left: 0.60px; top: 0.50px; position: absolute; background: #F4876B"></div>
+          </div>
+          <div class="header-hero-tag-text" style="color: rgba(29, 41, 57, 0.70); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 40px; word-wrap: break-word">Career-Oriented</div>
+        </div>
+        <div class="header-hero-tag" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div class="header-hero-tag-icon-wrap" style="width: 32px; height: 32px; position: relative; overflow: hidden">
+            <div class="header-hero-tag-icon" style="width: 28px; height: 28px; left: 2px; top: 2px; position: absolute; background: #B4708D"></div>
+          </div>
+          <div class="header-hero-tag-text" style="color: rgba(29, 41, 57, 0.70); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 40px; word-wrap: break-word">Creative Thinking</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-section" style="width: 1440px; height: 112px; left: 0px; top: 0px; position: absolute">
+    <div class="navbar-bg" style="width: 1515px; height: 112px; left: -3px; top: 0px; position: absolute; background: #FEFEFE; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25)"></div>
+    <img class="navbar-logo" style="width: 193.84px; height: 37px; left: 100px; top: 37px; position: absolute" src="https://placehold.co/194x37" />
+    <div class="navbar-search" style="width: 526px; height: 51px; left: 340px; top: 31px; position: absolute; overflow: hidden; border-radius: 20px; outline: 2px rgba(0, 0, 0, 0.25) solid; outline-offset: -2px">
+      <div class="navbar-search-placeholder" style="left: 64px; top: 15px; position: absolute; color: #0F0F0F; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Search for your course</div>
+      <div class="navbar-search-icon" style="width: 18px; height: 18px; left: 24px; top: 16px; position: absolute; outline: 2.50px rgba(0, 0, 0, 0.25) solid; outline-offset: -1.25px"></div>
+    </div>
+    <div class="navbar-btn navbar-btn-signup" style="width: 120px; height: 50px; padding-left: 30px; padding-right: 30px; padding-top: 4px; padding-bottom: 4px; left: 1220px; top: 31px; position: absolute; background: #000066; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="navbar-btn-text" style="color: white; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">Sign up</div>
+    </div>
+    <div class="navbar-btn navbar-btn-signin" style="width: 120px; height: 50px; padding-left: 30px; padding-right: 30px; padding-top: 4px; padding-bottom: 4px; left: 1060px; top: 31px; position: absolute; background: #000066; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="navbar-btn-text" style="color: white; font-size: 20px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">Sign in</div>
+    </div>
+  </div>
+
+  <!-- Continue adding classes for the rest of the divs in the file in a similar way -->
+<!-- ...existing code... -->
+</body>
+</html>
